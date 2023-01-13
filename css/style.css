@@ -1,0 +1,45 @@
+
+nav, footer {
+    text-align: center;
+    background-color: steelblue;
+    padding: 10px;
+}
+
+a {
+    font-size: 1.5em;
+    color: whitesmoke;
+    margin: 40px;
+    line-height: 1.5em;
+}
+
+h1, h2 {
+    text-align: center;
+    color: steelblue;
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+}
+
+#active {
+    background-color: white;
+    color: steelblue;
+}
+
+
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    border: 4px solid steelblue;
+}
+
+
+
+
